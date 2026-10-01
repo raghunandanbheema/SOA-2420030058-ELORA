@@ -1,4 +1,4 @@
-# Leave Management System
+# E.L.O.R.A – Employee Leave Orchestration and Resource Administration
 
 A **Service-Oriented Architecture (SOA) and Microservices-based Leave Management System** for managing employee leave applications, manager approvals, authentication, and notifications.
 
